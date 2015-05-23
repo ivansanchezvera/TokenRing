@@ -1,6 +1,8 @@
 Readme
 
 ************************************SETUP***************************************
+
+
 To execute.
 Execute name server first, NameServer.java with no parameters.
 
@@ -21,6 +23,8 @@ all nodes should be running in order to get the topology right, that is number o
 nodes runnig = Total number of nodes (3rd parameter defined in the each single node)
 
 **************************REQUESTS***************************************
+
+
 Once nodes are running, they are listening for requests:
 To request Critical section (lock) = requestCS
 Response:
