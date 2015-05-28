@@ -15,7 +15,7 @@ public class ListenerThread extends Thread {
 	{
 		while(true){
 			try{
-				//This is form pages 130 to 132
+				//This is from pages 130 to 132
 				//This is a blocking receiveMessage Call
 				Msg m = process.receiveMsg(channel);
 				//Now give the message to the Message Handler

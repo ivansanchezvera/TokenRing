@@ -1,7 +1,8 @@
 
 public class Symbols {
 	public static final int Infinity = -1;
-	public static final String nameServer = "localhost";
+	//public static final String nameServer = "localhost";
+	public static final String nameServer = "10.9.243.56";
 	public static final int ServerPort = 7033;
 	public static final int coordinator = 0;
 	
